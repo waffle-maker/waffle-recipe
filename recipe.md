@@ -7,3 +7,6 @@
 # Special Equipment
 - Waffle Iron 
 - Waffle.io
+
+
++ Canned whipped cream
